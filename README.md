@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**edu-correa/edu-correa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando ciência da computação na SPTECH 
+- 🌱 eu atualmente estou estudando diversas linguagens, entre elas C++, Javascript, HTML e CSS
+- 👯 Eu adoraria ajudar com c#, me considero bom nessa linguagem
+- 🤔 Eu as vezes vou precisar de ajuda com Java
+- ⚡ Fun fact: eu odeio Python
+- 🦍 Eu estudei também na ETEC Jorge Street fazendo DS.
+
+<div> 
+  <a href="https://instagram.com/edu._.correa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
+  <a href = "mailto:eduardo-correa1@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-corrêa-295988242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
