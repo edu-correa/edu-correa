@@ -6,7 +6,7 @@
 - 🌱 eu atualmente estou estudando diversas linguagens, entre elas C++, Javascript, HTML e CSS
 - 👯 Eu adoraria ajudar com c#, me considero bom nessa linguagem
 - 🤔 Eu as vezes vou precisar de ajuda com Java
-- ⚡ Fun fact: eu odeio Python
+- ⚡ Fun fact: eu odeio Python (tou brincando, adoro)
 - 🦍 Eu estudei também na ETEC Jorge Street fazendo DS.
 
 <br><br>
