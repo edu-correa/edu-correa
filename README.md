@@ -5,8 +5,7 @@
 - 🔭 Atualmente estou estudando ciência da computação na SPTECH 
 - 🌱 eu atualmente estou estudando diversas linguagens, entre elas C++, Javascript, HTML e CSS
 - 👯 Eu adoraria ajudar com c#, me considero bom nessa linguagem
-- 🤔 Eu as vezes vou precisar de ajuda com Java
-- ⚡ Fun fact: eu odeio Python (tou brincando, adoro)
+- ⚡ Fun fact: eu passei a venerar python
 - 🦍 Eu estudei também na ETEC Jorge Street fazendo DS.
 
 <br><br>
@@ -32,3 +31,12 @@
   
 </div>
 
+
+## Status
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-correa&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=edu-correa&show_icons=true&theme=dracula&line_height=27" alt="Eduardo Corrêa github stats"/>
+</a>
