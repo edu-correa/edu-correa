@@ -1,5 +1,4 @@
-### Olá, sou o edu 🐧
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B11226&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+edu;Gosto+de+backend;Eu+estou+treinando+codigos+na+São+Paulo+Tech+School)](https://git.io/typing-svg)
 
 
 - 🔭 Atualmente estou estudando ciência da computação na SPTECH 
@@ -10,7 +9,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B11226&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+edu;Gosto+de+backend;Eu+estou+treinando+codigos+na+São+Paulo+Tech+School)](https://git.io/typing-svg)
+
 
 
 <p align="center">
